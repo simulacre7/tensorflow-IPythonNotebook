@@ -4,6 +4,7 @@
 Debug
 *suo
 tracker
+*.mat
 
 # vim
 *.swp
