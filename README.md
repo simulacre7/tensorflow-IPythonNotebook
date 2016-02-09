@@ -1,2 +1,3 @@
-# tensorflow-study
-self-studying tensorflow 
+# tensorflow-IPythonNotebook
+self-studying tensorflow with IPythonNotebook
+
