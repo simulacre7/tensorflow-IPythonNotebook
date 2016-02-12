@@ -33,3 +33,4 @@ you can get Pre-trained VGG network by
 
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf
 [l-bfgs]: https://en.wikipedia.org/wiki/Limited-memory_BFGS
+[adam]: http://arxiv.org/abs/1412.6980
