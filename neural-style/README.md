@@ -2,7 +2,7 @@
 
 An implementation of [neural style][paper] written in TensorFlow with IPythonNotebook.
 
-## Example 1 - Initializing by content
+## Example 1 - Initializing with content
 
 ![output](images/output_deathwing_initial.jpg)
 
