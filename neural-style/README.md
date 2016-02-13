@@ -2,9 +2,9 @@
 
 An implementation of [neural style][paper] written in TensorFlow with IPythonNotebook.
 
-## Example 1
+## Example 1 - Initializing by content
 
-![output](images/output_deathwing.jpg)
+![output](images/output_deathwing_initial.jpg)
 
 These were the input images used (Deathwing, World of Warcraft):
 
@@ -12,13 +12,13 @@ These were the input images used (Deathwing, World of Warcraft):
 
 ![input-style](images/style1.jpg)
 
-## Example 2
+## Example 2 - No Initializing
 
-![output](images/output_makise.jpg)
+![output](images/output_deathwing.jpg)
 
-These were the input images used (Makise Kurisu, Steins;Gate):
+These were the input images used (Deathwing, World of Warcraft):
 
-![input-content](images/makise.jpg)
+![input-content](images/deathwing.jpg)
 
 ![input-style](images/style1.jpg)
 
