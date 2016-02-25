@@ -31,6 +31,9 @@ you can get Pre-trained VGG network by
 
 `wget http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat`
 
+## reference
+["A Neural Algorithm of Artistic Style"][paper] (Leon A. Gatys et al.  2015)
+
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf
 [l-bfgs]: https://en.wikipedia.org/wiki/Limited-memory_BFGS
 [adam]: http://arxiv.org/abs/1412.6980
