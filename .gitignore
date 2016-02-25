@@ -19,7 +19,7 @@ tracker
 *.lst
 *.zip
 *ubyte
-*.bin
+
 
 # ipython notebook
 *_pb2.py
