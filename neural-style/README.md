@@ -24,7 +24,7 @@ These were the input images used (Deathwing, World of Warcraft):
 
 ## details
 
-TensorFlow doesn't support [L-BFGS][l-bfgs] whis is the original authors used.
+TensorFlow doesn't support [L-BFGS][l-bfgs] which is the original authors used.
 So I use [Adam][adam]. This may require a little bit more hyperparameter tuning to get nice results.
 
 you can get Pre-trained VGG network by
