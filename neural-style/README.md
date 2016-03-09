@@ -2,25 +2,16 @@
 
 An implementation of [neural style][paper] written in TensorFlow with IPythonNotebook.
 
-## Example 1 - Initializing with content
+## Example
 
-![output](images/output_deathwing_initial.jpg)
-
-These were the input images used (Deathwing, World of Warcraft):
-
-![input-content](images/deathwing.jpg)
-
-![input-style](images/style1.jpg)
-
-## Example 2 - No Initializing
-
-![output](images/output_deathwing.jpg)
+![output](images/output_cat.jpg)
 
 These were the input images used (Deathwing, World of Warcraft):
 
-![input-content](images/deathwing.jpg)
+![input-content](images/cat.jpg)
 
-![input-style](images/style1.jpg)
+![input-style](images/Cubist-9.jpg)
+
 
 ## details
 
@@ -31,6 +22,12 @@ you can get Pre-trained VGG network by
 
 `wget http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat`
 
+
+## reference
+[A Neural Algorithm of Artistic Style (Leon A. Gatys, et al.)][paper]
+[Exploring the Neural Algorithm of Artistic Style (Yaroslav Nikulin, et al)][paper2]
+
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf
+[paper2]: http://arxiv.org/pdf/1602.07188v1.pdf
 [l-bfgs]: https://en.wikipedia.org/wiki/Limited-memory_BFGS
 [adam]: http://arxiv.org/abs/1412.6980
