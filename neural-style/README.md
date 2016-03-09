@@ -6,12 +6,13 @@ An implementation of [neural style][paper] written in TensorFlow with IPythonNot
 
 ![output](images/output_cat.jpg)
 
-These were the input images used (Deathwing, World of Warcraft):
+These were the input images used :
 
 ![input-content](images/cat.jpg)
 
 ![input-style](images/Cubist-9.jpg)
 
+[T.C. Fedro. (1969). Cubist 9][style]   
 
 ## details
 
@@ -25,9 +26,11 @@ you can get Pre-trained VGG network by
 
 ## reference
 [A Neural Algorithm of Artistic Style (Leon A. Gatys, et al.)][paper]
+
 [Exploring the Neural Algorithm of Artistic Style (Yaroslav Nikulin, et al)][paper2]
 
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf
 [paper2]: http://arxiv.org/pdf/1602.07188v1.pdf
+[style]: http://www.ebsqart.com/Art-Galleries/Contemporary-Cubism/43/Cubist-9/204218/
 [l-bfgs]: https://en.wikipedia.org/wiki/Limited-memory_BFGS
 [adam]: http://arxiv.org/abs/1412.6980
