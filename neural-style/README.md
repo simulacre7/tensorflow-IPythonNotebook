@@ -11,12 +11,12 @@ These were the input images used :
 ![input-content](images/UNIST.jpg)
 
 ![input-style](images/rain princess.jpg)
+
 [RAIN PRINCESS by Leonid Afremov][rain]
 
-
-/*
+<!--
 [T.C. Fedro. (1969). Cubist 9][style]   
-*/
+-->
 
 ## details
 
