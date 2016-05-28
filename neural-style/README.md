@@ -2,17 +2,21 @@
 
 An implementation of [neural style][paper] written in TensorFlow with IPythonNotebook.
 
-## Example
+## Examples
 
-![output](images/output_cat.jpg)
+![output](images/output_UNIST.jpg)
 
 These were the input images used :
 
-![input-content](images/cat.jpg)
+![input-content](images/UNIST.jpg)
 
-![input-style](images/Cubist-9.jpg)
+![input-style](images/rain princess.jpg)
+[RAIN PRINCESS by Leonid Afremov][rain]
 
+
+/*
 [T.C. Fedro. (1969). Cubist 9][style]   
+*/
 
 ## details
 
@@ -32,5 +36,8 @@ you can get Pre-trained VGG network by
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf
 [paper2]: http://arxiv.org/pdf/1602.07188v1.pdf
 [style]: http://www.ebsqart.com/Art-Galleries/Contemporary-Cubism/43/Cubist-9/204218/
+[rain]: https://afremov.com/RAIN-PRINCESS-Palette-knife-Oil-Painting-on-Canvas-by-Leonid-Afremov-Size-30-x30.html
 [l-bfgs]: https://en.wikipedia.org/wiki/Limited-memory_BFGS
 [adam]: http://arxiv.org/abs/1412.6980
+
+
