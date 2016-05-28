@@ -10,6 +10,8 @@ These were the input images used :
 
 ![input-content](images/UNIST.jpg)
 
+[Ulsan National Institute of Science and Technology][UNIST]
+
 ![input-style](images/rain princess.jpg)
 
 [RAIN PRINCESS by Leonid Afremov][rain]
@@ -37,6 +39,7 @@ you can get Pre-trained VGG network by
 [paper2]: http://arxiv.org/pdf/1602.07188v1.pdf
 [style]: http://www.ebsqart.com/Art-Galleries/Contemporary-Cubism/43/Cubist-9/204218/
 [rain]: https://afremov.com/RAIN-PRINCESS-Palette-knife-Oil-Painting-on-Canvas-by-Leonid-Afremov-Size-30-x30.html
+[UNIST]: http://www.studyinkorea.go.kr/en/sub/college_info/college_info.do?ei_code=562240
 [l-bfgs]: https://en.wikipedia.org/wiki/Limited-memory_BFGS
 [adam]: http://arxiv.org/abs/1412.6980
 
