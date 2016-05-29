@@ -28,3 +28,4 @@ input.txt*
 
 # ctags
 tags
+.Rproj.user
